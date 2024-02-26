@@ -1,7 +1,7 @@
 # Make README.md
 ## Steps
   - mkdir My_Repo
-  - cd My-Repo
+  - cd My_Repo
   - touch README.md
   - git init
   - git add README.md
